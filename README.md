@@ -1,1 +1,1 @@
-# writing-exercises
+# writing-samples
