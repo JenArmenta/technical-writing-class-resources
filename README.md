@@ -1,1 +1,1 @@
-# writing-samples
+# technical writing class resources
